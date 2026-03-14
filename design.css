@@ -34,7 +34,7 @@ a
 {
 	color: #59365f;
 	text-decoration: none;
-	background-color: #fbff00;
+	background-color: #f9fd02;
 }
 
 a abbr
@@ -65,13 +65,13 @@ abbr
 /* specific divs */
 footer
 {
-	background: transparent url(/images/sakura8.png) no-repeat left bottom;
+	background: transparent url(images/sakura8.png) no-repeat left bottom;
 	padding: 20px 0 60px 22px;
 }
 
 .page-wrapper
 {
-	background: #b447b4 url(/images/steine.gif) repeat-y;
+	background: #b447b4 url(images/steine.gif) repeat-y;
 	display: block;
 	margin: 0 auto;
 	padding: 0;
@@ -81,14 +81,14 @@ footer
 
 .design-selection
 {
-	background: #6d044d url(/images/sakura8.png) no-repeat left bottom;
+	background: #6d044d url(images/sakura8.png) no-repeat left bottom;
 	padding-bottom: 30px;
 	position: relative;
 }
 
 .design-archives, .zen-resources
 {
-	background: #b99ab8 url(/images/sakura8.png) no-repeat left bottom;
+	background: #b99ab8 url(images/sakura8.png) no-repeat left bottom;
 	margin-top: 26px;
 	padding-bottom: 50px;
 }
@@ -96,7 +96,7 @@ footer
 /* header graphics */
 header
 {
-	background: url(/images/top.jpg) no-repeat 0 0;
+	background: url(images/top.jpg) no-repeat 0 0;
 	text-indent: -2000px;
 	margin: 0;
 	padding: 0;
@@ -106,7 +106,7 @@ header
 header h2
 {
 	line-height: 0;
-	background: #fcfcfc url(/images/headlines_02.gif) no-repeat;
+	background: #fcfcfc url(images/headlines_02.gif) no-repeat;
 	text-indent: -2000px;
 	display: block;
 	margin: 0;
@@ -120,7 +120,7 @@ header h2
 
 .summary
 {
-	background: url(/images/sakura8.png);
+	background: url(images/sakura8.png);
 	text-align: left;
 	margin: 82px 0 0;
 	padding: 0;
@@ -153,7 +153,7 @@ h1, h2 { display: none; }
 
 .preamble h3
 {
-	background: url(/images/headlines_03.gif) no-repeat 0 0;
+	background: url(images/headlines_03.gif) no-repeat 0 0;
 	margin: 0;
 	padding: 0;
 	width: 370px;
@@ -162,7 +162,7 @@ h1, h2 { display: none; }
 
 .explanation h3
 {
-	background: url(/images/headlines_04.gif) no-repeat 0 0;
+	background: url(images/headlines_04.gif) no-repeat 0 0;
 	margin: 0;
 	padding: 0;
 	width: 370px;
@@ -171,7 +171,7 @@ h1, h2 { display: none; }
 
 .participation h3
 {
-	background: url(/images/headlines_05.gif) no-repeat 0 0;
+	background: url(images/headlines_05.gif) no-repeat 0 0;
 	margin: 0;
 	padding: 0;
 	width: 370px;
@@ -180,7 +180,7 @@ h1, h2 { display: none; }
 
 .benefits h3
 {
-	background: url(/images/headlines_06.gif) no-repeat 0 0;
+	background: url(images/headlines_06.gif) no-repeat 0 0;
 	margin: 0;
 	padding: 0;
 	width: 370px;
@@ -189,7 +189,7 @@ h1, h2 { display: none; }
 
 .requirements h3
 {
-	background: url(/images/headlines_07.gif) no-repeat 0 0;
+	background: url(images/headlines_07.gif) no-repeat 0 0;
 	margin: 0;
 	padding: 0;
 	width: 370px;
@@ -243,14 +243,14 @@ h1, h2 { display: none; }
 
 .sidebar h3.select
 {
-	background: url(/images/kastenlilie.gif) no-repeat left top;
+	background: url(images/kastenlilie.gif) no-repeat left top;
 	position: relative;
 	right: 38px;
 }
 
 .sidebar h3.archives
 {
-	background: url(/images/liliarchives_01.gif) no-repeat left top;
+	background: url(images/liliarchives_01.gif) no-repeat left top;
 	margin-top: 23px;
 	position: relative;
 	right: 38px;
@@ -258,7 +258,7 @@ h1, h2 { display: none; }
 
 .sidebar h3.resources
 {
-	background: url(/images/liliresourcen_01.gif) no-repeat left top;
+	background: url(images/liliresourcen_01.gif) no-repeat left top;
 	margin-top: 23px;
 	position: relative;
 	right: 38px;
@@ -292,10 +292,10 @@ h1, h2 { display: none; }
 
 .sidebar li
 {
-	background: url(/images/sakura8.png);
+	background: url(images/sakura8.png);
 	font-size: 11px;
 	line-height: 11px;
-	background: url(/images/bullet1.gif) no-repeat 0 12px;
+	background: url(images/bullet1.gif) no-repeat 0 12px;
 	list-style-type: none;
 	display: block;
 	margin: 0 0 0 14px;
@@ -339,7 +339,7 @@ h1, h2 { display: none; }
 
 .sidebar .design-archives li, .sidebar .zen-resources li
 {
-	background: url(/images/bullet2.gif) no-repeat 0 9px;
+	background: url(images/bullet2.gif) no-repeat 0 9px;
 	list-style-type: none;
 	display: block;
 	margin-left: 14px;
