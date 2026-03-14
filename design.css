@@ -13,7 +13,7 @@
 /* Basic Elements */
 html, body
 {
-	font: 14px/16px "trebuchet ms", italic, helvetica, sans;
+	font: 14px/16px "trebuchet ms", helvetica, sans;
 	background: #e683d5 url(bg.gif) repeat-y center top;
 	text-align: center;
 	margin: 0;
